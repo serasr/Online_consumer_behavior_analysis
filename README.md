@@ -21,12 +21,14 @@ The project follows these steps:
 - `DS`: Contains the dataset used for analysis.
 - `notebooks`: Jupyter notebooks containing code for data exploration, preprocessing, model training, evaluation, and insights generation.
 - `README.md`: Provides an overview of the project, including problem statement, approach, code structure, and key findings.
+- `Tableau visualizations` : Provides interactive tableau dashboard for more data insights.
 
 ## Usage
 1. Clone the repository to your local machine.
 2. Navigate to the `notebooks` directory.
 3. Open the Jupyter notebooks and execute the code cells sequentially to reproduce the analysis and generate insights. Execute consumer_behaviour_analysis.ipynb first.
 4. Refer to the README file for additional information on the project and its findings.
+5. Download the .twb file or copy/paste the url to view the tableau dashboard data insights.
 
 ## Dependencies
 - Python 3.x
